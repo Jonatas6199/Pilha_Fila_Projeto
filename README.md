@@ -3,7 +3,7 @@
 
 Olá de novo! Neste segundo projeto, vamos dar um passo além. Em vez de apenas guardar um número ou texto solto em uma variável, vamos aprender como organizar **vários dados** na memória do computador. 
 
-[cite_start]Para isso, exploraremos duas coleções genéricas fundamentais na programação: a **Pilha** e a **Fila**.
+Para isso, exploraremos duas coleções genéricas fundamentais na programação: a **Pilha** e a **Fila**.
 
 ---
 
