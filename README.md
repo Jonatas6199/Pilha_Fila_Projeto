@@ -12,13 +12,13 @@ Para isso, exploraremos duas coleções genéricas fundamentais na programação
 Imagine que você tem vários dados chegando e precisa decidir em qual ordem vai processá-los. Existem duas regras clássicas para isso:
 
 ### 1. A Fila (Queue) - A regra do "Primeiro a chegar, Primeiro a sair"
-* [cite_start]**Conceito:** Chamamos de **FIFO** (*First In, First Out*).
-* [cite_start]**Exemplo do cotidiano:** Pense em uma fila de banco. A primeira pessoa que entra na fila é a primeira a ser atendida e sair dela.
+* **Conceito:** Chamamos de **FIFO** (*First In, First Out*).
+* **Exemplo do cotidiano:** Pense em uma fila de banco. A primeira pessoa que entra na fila é a primeira a ser atendida e sair dela.
 * **No C#:** Usamos os comandos `Enqueue` (para entrar na fila) e `Dequeue` (para sair da fila).
 
 ### 2. A Pilha (Stack) - A regra do "Último a chegar, Primeiro a sair"
-* [cite_start]**Conceito:** Chamamos de **LIFO** (*Last In, First Out*).
-* [cite_start]**Exemplo do cotidiano:** Pense em uma pilha de pratos na pia. O último prato que você coloca no topo da pilha é o primeiro que você vai pegar para lavar.
+* **Conceito:** Chamamos de **LIFO** (*Last In, First Out*).
+* **Exemplo do cotidiano:** Pense em uma pilha de pratos na pia. O último prato que você coloca no topo da pilha é o primeiro que você vai pegar para lavar.
 * **No C#:** Usamos os comandos `Push` (para empurrar para o topo da pilha) e `Pop` (para tirar do topo).
 
 
